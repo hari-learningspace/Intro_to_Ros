@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/src/IotSensor/include/**",
+                "/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/src/example_ros_msg/include/**",
+                "/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/src/example_ros_service/include/**",
+                "/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/src/assigment1/inc/**",
+                "/home/hudkmr/ros_dir/my_robot/src/robot_description/include/**",
+                "/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/src/ros_packages/stdr_simulator/stdr_gui/include/**",
+                "/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/src/ros_packages/stdr_simulator/stdr_parser/include/**",
+                "/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/src/ros_packages/stdr_simulator/stdr_robot/include/**",
+                "/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/src/ros_packages/stdr_simulator/stdr_samples/include/**",
+                "/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/src/ros_packages/stdr_simulator/stdr_server/include/**",
+                "/usr/include/**",
+                "${workspaceFolder}/src/assignment1/inc"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}

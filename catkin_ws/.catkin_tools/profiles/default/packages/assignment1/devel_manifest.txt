@@ -1,0 +1,8 @@
+assignment1
+/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/.private/assignment1/cmake.lock /home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/./cmake.lock
+/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/.private/assignment1/share/assignment1/cmake/assignment1Config-version.cmake /home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/share/assignment1/cmake/assignment1Config-version.cmake
+/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/.private/assignment1/share/assignment1/cmake/assignment1Config.cmake /home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/share/assignment1/cmake/assignment1Config.cmake
+/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/.private/assignment1/lib/libmy_lib.so /home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/lib/libmy_lib.so
+/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/.private/assignment1/lib/pkgconfig/assignment1.pc /home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/lib/pkgconfig/assignment1.pc
+/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/.private/assignment1/lib/assignment1/publishernode /home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/lib/assignment1/publishernode
+/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/.private/assignment1/lib/assignment1/subscribernode /home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/lib/assignment1/subscribernode

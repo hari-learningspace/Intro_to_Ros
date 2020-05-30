@@ -1,0 +1,6 @@
+ros_packages/catkin_simple
+/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/.private/catkin_simple/cmake.lock /home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/./cmake.lock
+/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simple-extras.cmake /home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/share/catkin_simple/cmake/catkin_simple-extras.cmake
+/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simpleConfig.cmake /home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/share/catkin_simple/cmake/catkin_simpleConfig.cmake
+/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simpleConfig-version.cmake /home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/share/catkin_simple/cmake/catkin_simpleConfig-version.cmake
+/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/.private/catkin_simple/lib/pkgconfig/catkin_simple.pc /home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/lib/pkgconfig/catkin_simple.pc
