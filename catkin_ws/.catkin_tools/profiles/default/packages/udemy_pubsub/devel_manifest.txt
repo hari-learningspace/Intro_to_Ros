@@ -1,0 +1,5 @@
+udemy_pubsub
+/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/.private/udemy_pubsub/cmake.lock /home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/./cmake.lock
+/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/.private/udemy_pubsub/share/udemy_pubsub/cmake/udemy_pubsubConfig.cmake /home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/share/udemy_pubsub/cmake/udemy_pubsubConfig.cmake
+/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/.private/udemy_pubsub/share/udemy_pubsub/cmake/udemy_pubsubConfig-version.cmake /home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/share/udemy_pubsub/cmake/udemy_pubsubConfig-version.cmake
+/home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/.private/udemy_pubsub/lib/pkgconfig/udemy_pubsub.pc /home/hudkmr/Udemy/Intro_to_Ros/catkin_ws/devel/lib/pkgconfig/udemy_pubsub.pc
