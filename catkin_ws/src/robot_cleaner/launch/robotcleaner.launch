@@ -1,0 +1,9 @@
+<launch>
+
+<param name="x_goal" value="8.0"/>
+<param name="y_goal" value="7.0"/>
+
+<node pkg="turtlesim" type="turtlesim_node" name="robotclear_turtlesim"/>
+<node pkg="robot_cleaner" type="moverobot.py" name="robot_move" />
+
+</launch>

@@ -144,4 +144,6 @@ if __name__ == '__main__':
     # move(1, 4, 0)
     #rotate(90, 90, 0)
     # set_desired_orientation(0)
+    x_goal = rospy.get_param("x_goal")
+    y_goal = rospy.get_param("y_goal")
     go_to_goal(10.0, 10.0)
