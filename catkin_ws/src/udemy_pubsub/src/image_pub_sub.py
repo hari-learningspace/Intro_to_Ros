@@ -30,14 +30,14 @@ def image_callback(ros_image):
     if colums > 200 and rows > 200:
         cv2.circle(cv_image, (100, 100), 90, 255)
     font = cv2.FONT_HERSHEY_COMPLEX
-    cv2.putText(cv_image, 'Webcam Activated with ROS and OpenCV',
-                (10.350), font, 1, (255, 255, 0), 2, cv2.LINE_AA)
+    cv2.putText(cv_image, "ROS OpenCV", (10, 500),
+                font, 2, (255, 255, 255), 2, cv2.LINE_AA)
     cv2.imshow("Image Window", cv_image)
     cv2.waitKey(3)
 
 
 def main(args):
-    rospy.init('image_converter', anonymous-True)
+    rospy.init_node('image_converter', anonymous=True)
     image_sub = rospy.Subscriber('usb_cam/image_raw', Image, image_callback)
     try:
         rospy.spin()
